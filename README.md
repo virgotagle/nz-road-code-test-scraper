@@ -70,7 +70,7 @@ nz_road_code_test_scraper/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/virgotagle/nz-road-code-test-scraper
     cd nz_road_code_test_scraper
     ```
 
